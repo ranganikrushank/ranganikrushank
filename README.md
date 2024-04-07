@@ -1,4 +1,4 @@
-
+<img align="center" alt="Coding" width="2000" height="400" src="https://github.com/ranganikrushank/ranganikrushank/blob/main/Github%20Profile%20(1).png">
 <h1 align="center">Hi 👋, I'm Rangani Krushank</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
